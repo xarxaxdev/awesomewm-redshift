@@ -2,7 +2,12 @@
 
 Handling brightness + warmth using redshift exclusively in awesomewm.  Avoids dependencies on other programs (brightnessctl, etc).
 
-Just import:
+Just download:
+
+`curl -o redshift.lua https://raw.githubusercontent.com/xarxaxdev/awesomewm-redshift/refs/heads/main/redshift.lua`
+
+And import on rc.lua:
+
 `local redshift = require("redshift")`
 
 Warmth can be 1 or 0, and toggled with:
