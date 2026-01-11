@@ -1,6 +1,6 @@
 # awesomwm-redshift
 
-Handling brightness + warmth using redshift exclusively in awesomewm.  Avoids dependencies on other programs (brightnessctl, etc).
+Handling brightness + warmth using redshift exclusively in awesomewm.  Avoids dependencies on other programs (brightnessctl, etc). 60 lines to make your life easier.
 
 Just download:
 
